@@ -1,0 +1,17 @@
+external_database_port: 3306
+external_database_type: mysql
+external_uaa_database_name: uaa_db
+external_uaa_database_username: uaa
+external_bbs_database_name: bbs_db
+external_bbs_database_username: bbs
+external_cc_database_name: cc_db
+external_cc_database_username: cc
+external_routing_api_database_name: routing_api_db
+external_routing_api_database_username: routing_api
+external_policy_server_database_name: policy_server_db
+external_policy_server_database_username: policy_server
+external_silk_controller_database_name: silk_controller_db
+external_silk_controller_database_username: silk_controller
+external_locket_database_name: locket_db
+external_locket_database_username: locket
+
