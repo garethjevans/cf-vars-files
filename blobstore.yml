@@ -1,5 +1,5 @@
 ---
 app_package_directory_key: ((env_id))-package
-buildpack_directory_key: ((env_id)-buildpack
-droplet_directory_key: ((env_id)-droplet
-resource_directory_key: ((env_id)-resource
+buildpack_directory_key: ((env_id))-buildpack
+droplet_directory_key: ((env_id))-droplet
+resource_directory_key: ((env_id))-resource
